@@ -1,0 +1,20 @@
+﻿Nirmala UI (0, 126, 249) -- Button text
+Nirmala UI (0, 126, 249) -- panelNav backcolor
+Form-BackColor (46, 51, 73)
+Panel-BackColor (24, 30, 54)
+Hover-Over-Argb(46,51,73)
+
+
+{
+    "DashboardForm": {
+        "Size" : {
+            "Width" : 910,
+            "Height" : 480
+        },
+        "BackColor" : {
+            "R" : 46,
+            "G" : 51,
+            "B" : 73
+        }
+    }
+}
